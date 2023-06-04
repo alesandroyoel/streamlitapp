@@ -178,7 +178,7 @@ def main():
     <style>
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden; }
-    footer:after {content:'Developed by Shubhayu Majumdar'; visibility: visible;}
+    footer:after {content:'Developed by Alesandro'; visibility: visible;}
     </style>
     """
     st.markdown(hide_menu_style, unsafe_allow_html=True)
